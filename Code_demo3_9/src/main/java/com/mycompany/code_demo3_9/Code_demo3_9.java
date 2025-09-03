@@ -12,5 +12,6 @@ public class Code_demo3_9 {
 
     public static void main(String[] args) {
         System.out.println("Hello class!");
+        System.out.println("Tra My");
     }
 }
